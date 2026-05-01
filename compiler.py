@@ -294,7 +294,7 @@ DEMO_EXPRESSIONS = [
 
 def main():
     print("╔══════════════════════════════════════════════════════╗")
-    print("║   Simple Calculator Interpreter  ║")
+    print("║   Simple Calculator Interpreter                      ║")
     print("║   Supports: + - * /  and parentheses ( )             ║")
     print("╚══════════════════════════════════════════════════════╝")
     print("\n  Running demo expressions first...\n")
